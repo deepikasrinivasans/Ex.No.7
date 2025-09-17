@@ -30,6 +30,8 @@ This process highlights how a well-crafted prompt can transform a versatile LLM 
 "I have a daily schedule with the following tasks and their estimated times:
 
 ...and so on.
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bdccde33-f9b8-4a57-a0f4-8b5624f54866" />
+
 
 # The following tasks have just been unexpectedly canceled:
 
